@@ -13,7 +13,7 @@
   "type": "module",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^10.7.0",
+    "eslint": "^9.39.5",
     "eslint-plugin-react": "^7.37.5",
     "parcel": "^2.16.4",
     "postcss": "^8.5.22",
